@@ -1,6 +1,6 @@
 package gitPractice;
 
 public class Practice {
-	// Revision four
-	// Pack my box with five dozen liquor jugs.
+	// Revision five
+	// Heavy boxes perform quick waltzes and jigs.
 }
