@@ -1,6 +1,6 @@
 package gitPractice;
 
 public class Practice {
-	// Revision one
-	// Hello, World!
+	// Revision two
+	// The quick brown fox jumps over the lazy dog.
 }
